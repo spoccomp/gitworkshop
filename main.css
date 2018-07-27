@@ -1,20 +1,4 @@
 .head{
     background-color: #ea5169;
     color: black;
-    text-align: center;
-    align-content: center;
-}
-.foot{
-    text-align: center;
-    background-color: #ea5169;
-    color: black;
-    align-content: center;
-}
-.h3list{
-    text-decoration: underline;
-    background-color: #ea5169;
-    color: black;
-}
-.ullist{
-    display: flex;
 }
